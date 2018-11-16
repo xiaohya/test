@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="ssm_luntan:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="maven_ssm_test.war">
-      <element id="artifact" artifact-name="ssm_luntan:war exploded" />
-    </root>
-  </artifact>
-</component>
