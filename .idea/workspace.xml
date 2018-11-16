@@ -6,39 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b5d147-0692-4df5-9c92-6099ef3b6d44" name="Default" comment="框架">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/artifacts/xiaohuya_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/artifacts/xiaohuya_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/xiaohuya/test/dao/testDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/xiaohuya/test/model/ly_cookbook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/xiaohuya/test/web/testController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/webapp/jsp/hello.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/artifacts/ssm_luntan_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/artifacts/ssm_luntan_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/ssm_luntan/dao/AdminDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/ssm_luntan/dao/impl/adminMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/ssm_luntan/test/dao/AdminDaoTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/ssm_luntan/web/adminController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/test/model/Admin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/test/test/SpringJunitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/webapp/hello.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/misc.xml" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/modules.xml" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/pom.xml" afterPath="$PROJECT_DIR$/../xiaohuya/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/resources/conf.xml" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/resources/conf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/resources/dispatcherContext-servlet.xml" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/resources/dispatcherContext-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../xiaohuya/src/main/webapp/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../xiaohuya/ssm_luntan.iml" afterPath="$PROJECT_DIR$/../xiaohuya/xiaohuya.iml" />
+    <list default="true" id="47b5d147-0692-4df5-9c92-6099ef3b6d44" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/ssm_luntan/model/Admin.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../xiaohuya/src/main/java/com/lcvc/ssm_luntan/test/SpringJunitTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xiaohuya/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../xiaohuya/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../xiaohuya/out/" />
     <ignored path="$PROJECT_DIR$/../xiaohuya/target/" />
@@ -482,12 +453,20 @@
       <option name="presentableId" value="Default" />
       <updated>1542335560586</updated>
       <workItem from="1542335563884" duration="1164000" />
-      <workItem from="1542337432251" duration="1008000" />
+      <workItem from="1542337432251" duration="1283000" />
     </task>
+    <task id="LOCAL-00001" summary="框架">
+      <created>1542338468010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542338468010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2172000" />
+    <option name="totallyTimeSpent" value="2447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
